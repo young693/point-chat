@@ -50,9 +50,6 @@ import java.util.stream.Collectors;
 
 /**
  * 会话消息表服务接口实现
- *
- * @author Dao-yang
- * @date: 2024-01-10 09:56:44
  */
 @Slf4j
 @Service

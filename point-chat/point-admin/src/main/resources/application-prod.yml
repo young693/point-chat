@@ -205,4 +205,6 @@ chat:
   icon: static/ico/dot-logo.jpg
   group:
     max-member-num: 500
-    qrcode-url: 
+    qrcode-url:
+
+DEEPSEEK_APIKEY: ${DEEPSEEK_APIKEY}
